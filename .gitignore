@@ -175,3 +175,6 @@ StyleCop.Cache
 
 /**/**/*.publish.xml
 
+MetadataProcFramework/bin/**/*.*
+
+MetadataProcFramework/obj/**/*.*
