@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhlfeaWct2K0QjUWFdMQ8/VZEKnGb6XjT8E/8UiR6jbG6ovo9DSZRBJWy9V9L9xpKTTIqLDaOkiCoD7e73nO2Q==",
+  "success": true,
+  "projectFilePath": "c:\\Data\\Repos\\MetadataProcFramework\\MetadataProcFramework\\MetadataProcFramework.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
