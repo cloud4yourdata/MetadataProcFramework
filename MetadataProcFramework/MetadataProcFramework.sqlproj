@@ -79,10 +79,16 @@
     <Build Include="load\Tables\DataSetProperty.sql" />
     <Build Include="load\StoredProcedures\usp_SynchroDataSetMetadata.sql" />
     <Build Include="load\Tables\DataSourceMetadata.sql" />
-    <None Include="Scripts\Init.sql" />
+    <None Include="Scripts\001.Init.sql" />
     <None Include="Scripts\SampleSystem.sql" />
     <Build Include="load\Views\vwDataSourceMetaData.sql" />
     <Build Include="load\StoredProcedures\usp_AddDataSourceSchema.sql" />
+    <Build Include="load\Tables\LoadTemplate.sql" />
+    <Build Include="load\Tables\LoadTemplateType.sql" />
+    <None Include="Scripts\002.LoadTemplateType.sql" />
+    <None Include="load\Tables\LoadTemplateParam.sql" />
+    <None Include="Scripts\003.LoadTemplateParam.sql" />
+    <None Include="Scripts\004.LoadTemplate.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />

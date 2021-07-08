@@ -1,0 +1,7 @@
+CREATE TABLE [load].[LoadTemplateType]
+(
+  [Id] INT NOT NULL,
+  [Name] NVARCHAR (50) NOT NULL,
+  [Description] NVARCHAR (255) NULL,
+  CONSTRAINT [PK_LoadTemplateType] PRIMARY KEY CLUSTERED ([Id] ASC)
+)
