@@ -89,6 +89,13 @@
     <None Include="load\Tables\LoadTemplateParam.sql" />
     <None Include="Scripts\003.LoadTemplateParam.sql" />
     <None Include="Scripts\004.LoadTemplate.sql" />
+    <Build Include="load\Tables\LoadConfig.sql" />
+    <Build Include="load\Tables\LoadMode.sql" />
+    <None Include="Scripts\005.LoadMode.sql" />
+    <Build Include="load\Tables\LoadDataSetConfig.sql" />
+    <Build Include="load\Tables\LoadDataSetPropertyConfig.sql" />
+    <Build Include="load\Tables\LoadProcessLog.sql" />
+    <Build Include="load\Tables\LoadLog.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />

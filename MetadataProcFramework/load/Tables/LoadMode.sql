@@ -1,0 +1,7 @@
+CREATE TABLE [load].[LoadMode]
+(
+  [Id] INT NOT NULL,
+  [Name] VARCHAR(255) NOT NULL,
+  [Description] NVARCHAR (255) NOT NULL,
+  CONSTRAINT [PK_LoadMode] PRIMARY KEY CLUSTERED ([Id] ASC)
+)

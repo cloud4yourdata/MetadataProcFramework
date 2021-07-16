@@ -1,1 +1,2 @@
-CREATE SCHEMA [load];
+CREATE SCHEMA [load]
+ AUTHORIZATION [dbo];
